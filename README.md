@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **express , react**
+- 🌱 I’m currently learning **java, spring**
 
 - 📫 How to reach me **aashishkr.thapa84@gmail.com**
 
